@@ -1,0 +1,6 @@
+Estudo de Caso 1:
+Como representar uma fração em Python utilizando classes, com métodos representando as diferentes operações entre frações.
+
+
+Estudo de Caso 2:
+Como representar um cliente de banco e uma conta bancária em Python, onde toda conta possui um cliente e vice-versa.
