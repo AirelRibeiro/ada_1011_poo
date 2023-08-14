@@ -149,9 +149,9 @@ class Fracao_O_Retorno:
 fracao1 = Fracao(5, 8)
 fracao2 = Fracao_O_Retorno(2, 5)
 
-fracao3 = fracao2 * fracao1
+fracao3 = fracao1 * fracao2
 
 print(fracao1 + fracao2)
 print(fracao1 - fracao2)
-print(dir(fracao3))  # objeto(fracao2).metodo(__mul__)(fracao1)
+print(fracao3)  # objeto(fracao2).metodo(__mul__)(fracao1)
 print(fracao1 / fracao2)
