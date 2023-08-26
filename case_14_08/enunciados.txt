@@ -1,0 +1,2 @@
+Estudo de Caso:
+Como utilizar a própria classe cliente de aulas anteriores para armazenar, buscar e acessar todos os objetos cliente instanciados.
