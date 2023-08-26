@@ -1,0 +1,2 @@
+Estudo de Caso:
+Como permitir o uso dos operadores aritméticos e de comparação do Python (+, -, *, /, >, <, ==, !=, <=, >=) entre objetos fração e imprimir os objetos corretamente utilizando print(objeto).
